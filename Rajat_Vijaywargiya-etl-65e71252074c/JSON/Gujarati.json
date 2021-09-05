@@ -1,0 +1,23 @@
+[
+    {
+        "Srno": "31",
+        "TranslatedRecipeName": "Tindora Sambharo",
+        "Cuisine": "Gujarati",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Tindora_Sambharo_Recipe_Instant_Tendli_Pickle_-4_1600.jpg",
+        "Price": "133"
+    },
+    {
+        "Srno": "38",
+        "TranslatedRecipeName": "Cabbage And Carrot Sambharo",
+        "Cuisine": "Gujarati",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Anjana_Chaturvedi/Cabbage_and_carrot_sambharo.jpg",
+        "Price": "228"
+    },
+    {
+        "Srno": "107",
+        "TranslatedRecipeName": "Crispy Masala Peanuts",
+        "Cuisine": "Gujarati",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Roop/Crispy_Masala_Peanuts_or_Gujrati_Sing_Bhujia.jpg",
+        "Price": "310"
+    }
+]

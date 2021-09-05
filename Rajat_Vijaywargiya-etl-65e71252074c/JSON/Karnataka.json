@@ -1,0 +1,23 @@
+[
+    {
+        "Srno": "92",
+        "TranslatedRecipeName": "Bengaluru Style Brinjal Gravy",
+        "Cuisine": "Karnataka",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/monisha.nair1-gmail.com/Brinjal_gravy_for_biryani_Bengaluru_style_.jpg",
+        "Price": "181"
+    },
+    {
+        "Srno": "116",
+        "TranslatedRecipeName": "Khara Obbattu",
+        "Cuisine": "Karnataka",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2016/sept-23/Spicy_Masala_Kara_Obbattu_Recipe_South_Indian_Style_Savory_Potato_Bread_Puran_Poli-5.jpg",
+        "Price": "149"
+    },
+    {
+        "Srno": "146",
+        "TranslatedRecipeName": "Karnataka Style Gorai Kai Kara",
+        "Cuisine": "Karnataka",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Karanataka_Style_Goraikai_Kara_Recipe_Cluster_Beans_Chutney_Recipe_.jpg",
+        "Price": "274"
+    }
+]

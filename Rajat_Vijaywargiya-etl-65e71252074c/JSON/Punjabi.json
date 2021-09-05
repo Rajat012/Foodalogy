@@ -1,0 +1,37 @@
+[
+    {
+        "Srno": "12",
+        "TranslatedRecipeName": "Saunf Aloo",
+        "Cuisine": "Punjabi",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Madhuri_Aggarwal/Saunf_Aloo__Fennel_Potato_Curry.jpg",
+        "Price": "236"
+    },
+    {
+        "Srno": "33",
+        "TranslatedRecipeName": "Baingan Bharta",
+        "Cuisine": "Punjabi",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Vegetables_Dry/Baingan_Bharta_Sabzi_Recipe_Smoked_Roasted_Eggplant_with_Green_Chillies_and_Ginger-1.jpg",
+        "Price": "278"
+    },
+    {
+        "Srno": "37",
+        "TranslatedRecipeName": "Makki And Methi Roti",
+        "Cuisine": "Punjabi",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/pooja/Makki_and_Methi_Roti.jpg",
+        "Price": "187"
+    },
+    {
+        "Srno": "108",
+        "TranslatedRecipeName": "Maa Ki Dal",
+        "Cuisine": "Punjabi",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Monika_Manchanda/Maa_Ki_Daal_1600.jpg",
+        "Price": "268"
+    },
+    {
+        "Srno": "112",
+        "TranslatedRecipeName": "Chole Masala",
+        "Cuisine": "Punjabi",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Amritsari_Chole_Masala_Recipe_Punjabi_Chole_Masala_Chana_Masala_4_1600.jpg",
+        "Price": "358"
+    }
+]

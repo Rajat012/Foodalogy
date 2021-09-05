@@ -1,0 +1,23 @@
+[
+    {
+        "Srno": "3",
+        "TranslatedRecipeName": "Andhra Style Allam Pachadi",
+        "Cuisine": "Andhra",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Andhra_Style_Allam_Pachadi_Ginger_Chutney_Recipe_.jpg",
+        "Price": "165"
+    },
+    {
+        "Srno": "11",
+        "TranslatedRecipeName": "Andhra Style Ingavu Chaaru",
+        "Cuisine": "Andhra",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Andhra_Style_Ingavu_Chaaru_Recipe_Asafetida_flavored_Tamarind_Rasam.jpg",
+        "Price": "140"
+    },
+    {
+        "Srno": "40",
+        "TranslatedRecipeName": "Andhra Style Tomato Cauliflower Koora",
+        "Cuisine": "Andhra",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Andhra_Style_Tomato_Cauliflower_Koora_.jpg",
+        "Price": "165"
+    }
+]

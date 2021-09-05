@@ -1,0 +1,23 @@
+[
+    {
+        "Srno": "27",
+        "TranslatedRecipeName": "Chinese Darsaan With Ice Cream",
+        "Cuisine": "Chinese",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/Articles/Chinese_Darsan_Recipe_Honey_Crispy_Noodles_With_Vanilla_Ice_Cream-4_1_1600.jpg",
+        "Price": "243"
+    },
+    {
+        "Srno": "67",
+        "TranslatedRecipeName": "Shanghai Style Chap Nian Gao",
+        "Cuisine": "Chinese",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Shanghai_Style_Chap_Nian_Gao_Recipes_Stir_Fried_Rice_Cakes_Recipes.jpg",
+        "Price": "399"
+    },
+    {
+        "Srno": "129",
+        "TranslatedRecipeName": "Vegetable Fried Brown Rice",
+        "Cuisine": "Chinese",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/VEGETABLE_FRIED_BROWN_RICE.jpg",
+        "Price": "303"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "Srno": "26",
+        "TranslatedRecipeName": "Asian Style Sweet & Spicy Green Beans",
+        "Cuisine": "Thai",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2019/Asian_Style_Green_Beans_Recipe_8_1600.jpg",
+        "Price": "102"
+    },
+    {
+        "Srno": "143",
+        "TranslatedRecipeName": "Thai Yellow Coconut Curry Rice",
+        "Cuisine": "Thai",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/8-Feb/Thai_Yellow_Coconut_Curry_Rice_Recipe-2.jpg",
+        "Price": "185"
+    }
+]

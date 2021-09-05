@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/notifications.css">
+
+    <title>Foodalogy | Cart</title>
+    <script src="https://use.fontawesome.com/588d1a2491.js"></script>
+    <style>
+        h5,
+        h6 {
+            font-weight: bold;
+            margin-top: 0.5rem;
+        }
+        
+        @media (max-width: 576px) {
+            h5,
+            h6 {
+                font-size: smaller;
+            }
+            .products {
+                font-size: 70%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-dark navbar-expand-sm fixed-top">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand mr-auto" href="./index.html"><img src="img/logo.jpg" style="border-radius: 25%;" alt="No image to display" height="30" width="41"></a>
+            <div class="collapse navbar-collapse" id="Navbar">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item"><a class="nav-link" href="./index.html"><span class="fa fa-home fa-lg"></span>
+                            Home</a></li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./aboutus.html"><span class="fa fa-info fa-lg"></span> About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./services.html"><span class="fa fa-list fa-lg"></span> Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./contactus.html"><span class="fa fa-address-card fa-lg"></span>
+                            Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./menu.html"><span class="fa fa-bars"></span>
+                            Menu</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav mr-2">
+                    <li class="nav-item">
+                        <img src="img/avatar.png" alt="" id="avatar" data-toggle="modal" data-target="#AvatarImage">
+                        <div class="modal" id="AvatarImage" tabindex="-1" role="dialog" aria-hidden="true">
+
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <img src="img/avatar.png" alt="No Image Found" id="img01">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <button class="btn btn-primary btn-rounded" id="loggedin" data-toggle="modal" data-target="#login">
+                            <span class="fa fa-sign-in"></span> Login
+                        </button>
+                        <div class="btn-group" id="loggedout" style="display: none;">
+                            <button type="button" class="btn btn-primary btn-rounded" onclick="signout()"><span class="fa fa-sign-out"></span>Logout</button>
+                            <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="sr-only">Toggle Dropdown</span>
+                            </button>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="./user.html"><span class="fa fa-user-circle" aria-hidden="true"></span>User Dashboard</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="modal" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button class="close" onclick="$('#login').modal('hide');"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h3 class="modal-title" id="myModalLabel">Login / Register</h3>
+                </div>
+                <div class="modal-body">
+                    <div role="tabpanel">
+                        <ul class="nav nav-tabs" style="border: 0;">
+                            <li class="nav-item">
+                                <a class="nav-link active" href="#uploadTab" role="tab" data-toggle="tab">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#browseTab" role="tab" data-toggle="tab">Signup</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" style="border: 0;">
+
+                            <!--Signin Form-->
+
+                            <div role="tabpanel" class="tab-pane active" id="uploadTab">
+                                <div id="login-form">
+                                    <div class="md-form1">
+                                        <input name='email' type="email" id="Formail1" class="form-control" required>
+                                        <label data-error="wrong" data-success="right" for="Formail1" class>Email</label>
+                                    </div>
+                                    <div class="md-form1">
+                                        <input name='pass' type="password" id="Forpass1" class="form-control" required>
+                                        <label data-error="wrong" data-success="right" for="Forpass1" class>Password</label>
+                                    </div>
+
+                                    <div class="modal-footer align-self-center" style="margin-bottom: 10px;">
+                                        <button class="btn1" data-dismiss="modal">
+                                            Cancel
+                                        </button>
+                                        <button class="btn1" id="submit1" onclick="login()">
+                                            <span></span>
+                                            <span></span>
+                                            <span></span>
+                                            <span></span>
+                                            Confirm
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="or-container">
+                                    <div class="line-separator"></div>
+                                    <div class="or-label">or</div>
+                                    <div class="line-separator"></div>
+                                </div>
+                                <div class="row" style="text-align: center;">
+                                    <div class="col-md-12">
+                                        <a class="btn btn-primary btn-rounded" style="font-size: larger;font-weight:700;background:#181125" href="#browseTab" data-toggle="tab">
+                                            <span class="fa fa-hand-o-right"></span> Signup
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="or-container">
+                                    <div class="line-separator"></div>
+                                    <div class="or-label">or</div>
+                                    <div class="line-separator"></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <button class="btn btn-lg btn-google btn-block btn-outline" onclick="googleSignin()"><img
+                                                src="https://img.icons8.com/color/16/000000/google-logo.png" alt="">
+                                            Signup Using Google
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Signup Form-->
+
+                            <div role="tabpanel" class="tab-pane" id="browseTab">
+                                <div id="signup-form">
+                                    <div class="md-form1">
+                                        <input name='email' type="email" id="Formail2" class="form-control" required>
+                                        <label data-error="wrong" data-success="right" for="Formail2">Email</label>
+                                    </div>
+                                    <div class="md-form1">
+                                        <input name='pass' type="password" id="Forpass2" class="form-control" required>
+                                        <label data-error="wrong" data-success="right" for="Forpass2">Password</label>
+                                        <span id="message1" class="text-danger"></span>
+                                    </div>
+                                    <div class="md-form1">
+                                        <input name='pass' type="password" id="Forpass3" class="form-control" required>
+                                        <label data-error="wrong" data-success="right" for="Forpass3">Confirm
+                                            Password</label>
+                                        <span id="message2" class="text-danger"></span>
+                                    </div>
+
+                                    <div class="modal-footer align-self-center" style="margin-bottom: 10px;">
+                                        <button type="button" class="btn1" data-dismiss="modal">
+                                            Cancel
+                                        </button>
+                                        <button class="btn1" id="submit2" name="submit2" onclick="signup()">
+                                            <span></span>
+                                            <span></span>
+                                            <span></span>
+                                            <span></span>
+                                            Confirm
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="or-container">
+                                    <div class="line-separator"></div>
+                                    <div class="or-label">Already have an account?</div>
+                                    <div class="line-separator"></div>
+                                </div>
+                                <div class="row" style="text-align: center;">
+                                    <div class="col-md-12">
+                                        <a class="btn btn-primary btn-rounded" style="font-size: larger;font-weight:700;background:#181125" href="#uploadTab" data-toggle="tab">
+                                            <span class="fa fa-sign-in"></span> Login
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="product-container">
+        <div class="product-header">
+            <h5 class="product-title col-3 col-md-5">ITEM</h5>
+            <h5 class="price text-body col-3 col-md-2" style="border-bottom: 0;">PRICE</h5>
+            <h5 class="quantity text-body col-3 col-md-3" style="border-bottom: 0;">QUANTITY</h5>
+            <h5 class="total text-body col-3 col-md-2" style="border-bottom: 0;">TOTAL</h5>
+        </div>
+        <div class="products"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="js/notifications.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-auth.js"></script>
+    <script src="js/firebaseInitialize.js"></script>
+    <script src="js/firebaseLogin.js"></script>
+    <script src="js/cart.js"></script>
+</body>
+
+</html>

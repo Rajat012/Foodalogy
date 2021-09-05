@@ -1,0 +1,23 @@
+[
+    {
+        "Srno": "9",
+        "TranslatedRecipeName": "Baked Beans",
+        "Cuisine": "Fusion",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/World_Breakfast/Homemade_baked_beans_Recipe_healthy_breakfast_shutterstock_222439996.jpg",
+        "Price": "384"
+    },
+    {
+        "Srno": "19",
+        "TranslatedRecipeName": "Subway Sandwich With Beet & Sprout",
+        "Cuisine": "Fusion",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/World_Sandwiches_Burgers_Wraps/Beet_and_Sprout_Vegetable_Sandwich_Recipe-1.jpg",
+        "Price": "394"
+    },
+    {
+        "Srno": "54",
+        "TranslatedRecipeName": "Masala Sandwich With Rocket Leaves",
+        "Cuisine": "Fusion",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/World_Breakfast/Bombay_Masala_Sandwich_with_Rocket_Leaves-1.jpg",
+        "Price": "264"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Srno": "43",
+        "TranslatedRecipeName": "Rajasthani Khooba Roti",
+        "Cuisine": "Rajasthani",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Pooja_Thakur/Rajasthani_Khooba_Roti.jpg",
+        "Price": "214"
+    },
+    {
+        "Srno": "106",
+        "TranslatedRecipeName": "Rajasthani Style Dried Gatta Capsicum Vegetable",
+        "Cuisine": "Rajasthani",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl-archanaskitchen.com/Rajasthani_Style_Sukhe_Gatte_Capsicum_Ki_Sabzi_Recipe.jpg",
+        "Price": "312"
+    },
+    {
+        "Srno": "113",
+        "TranslatedRecipeName": "Rajasthani Kachri Chutney",
+        "Cuisine": "Rajasthani",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/pooja/kachri_ki_chutney_recipe_new.jpg",
+        "Price": "254"
+    }
+]

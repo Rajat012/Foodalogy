@@ -1,0 +1,58 @@
+[
+    {
+        "Srno": "46",
+        "TranslatedRecipeName": "Paneer Tikka Saddle Roll",
+        "Cuisine": "Bengali",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Paneer_Tikka_Kathi_Roll_Recipe_video_2_1600.jpg",
+        "Price": "357"
+    },
+    {
+        "Srno": "49",
+        "TranslatedRecipeName": "Cholar Dal",
+        "Cuisine": "Bengali",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2019/Bengali_Cholar_Dal_Recipe_5_1600.jpg",
+        "Price": "371"
+    },
+    {
+        "Srno": "66",
+        "TranslatedRecipeName": "Bengali Chirer Payesh",
+        "Cuisine": "Bengali",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Sweets_Mithai/chirer-payesh-poha-pudding-recipe-with-nolen-gur.jpg",
+        "Price": "355"
+    },
+    {
+        "Srno": "78",
+        "TranslatedRecipeName": "Chirer Dudh Puli",
+        "Cuisine": "Bengali",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/moumita.malla-gmail.com/Chirer_Dudh_Puli_Bengali_Style_Beaten_Rice_Dumpling_Filled_with_coconut_Jeffery_Stuffing.jpg",
+        "Price": "389"
+    },
+    {
+        "Srno": "123",
+        "TranslatedRecipeName": "Bengali Aloo Dum",
+        "Cuisine": "Bengali",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Bengali_Aloo_Dum_Recipe_1_1600.jpg",
+        "Price": "363"
+    },
+    {
+        "Srno": "126",
+        "TranslatedRecipeName": "Papad Curry",
+        "Cuisine": "Bengali",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/19-Jan/Papad_er_Dalna_bengali_style_papad_curry_Recipe-2.jpg",
+        "Price": "284"
+    },
+    {
+        "Srno": "130",
+        "TranslatedRecipeName": "Bengali Langcha With Mawa",
+        "Cuisine": "Bengali",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/usashis-gmail.com/Langcha_A_sweet_from_West_Bengal.jpg",
+        "Price": "102"
+    },
+    {
+        "Srno": "137",
+        "TranslatedRecipeName": "Aloo Potol Posto",
+        "Cuisine": "Bengali",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2016/sept-26/Bengali_Aloo_Potol_Posto_Recipe_Aloo_Parwal_In_Poppy_Seed_Masala-1.jpg",
+        "Price": "236"
+    }
+]

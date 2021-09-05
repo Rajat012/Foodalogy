@@ -1,0 +1,156 @@
+[
+    {
+        "Srno": "1",
+        "TranslatedRecipeName": "Spicy Tomato Rice",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/b.yojana-gmail.com/Spicy_Thakkali_Rice_Tomato_Pulihora-1_edited.jpg",
+        "Price": "322"
+    },
+    {
+        "Srno": "2",
+        "TranslatedRecipeName": "Ragi Semiya Upma",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Monika_Manchanda/Ragi_vermicilli.jpg",
+        "Price": "166"
+    },
+    {
+        "Srno": "4",
+        "TranslatedRecipeName": "Pudina Khara Pongal",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/nithya.anantham/Mint_Khara_Pongal_Recipe.jpg",
+        "Price": "183"
+    },
+    {
+        "Srno": "7",
+        "TranslatedRecipeName": "Spicy Crunchy Masala Idli",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Guest_Writers/Jeny_John/Spicy_Crunchy_Masala_Idli_Recipe.jpg",
+        "Price": "179"
+    },
+    {
+        "Srno": "8",
+        "TranslatedRecipeName": "Cauliflower Leaves Chutney",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/anu.mallajosyula-gmail.com/Cauliflower_leaf_chutney_recipe_edited_1.jpg",
+        "Price": "239"
+    },
+    {
+        "Srno": "13",
+        "TranslatedRecipeName": "South Indian Onion Chutney",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Aparna/The_Healthy_South_Indian_Onion_Chutney_1600.jpg",
+        "Price": "336"
+    },
+    {
+        "Srno": "20",
+        "TranslatedRecipeName": "South Indian Style Murungakkai Poriyal",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/vidya.masalachilli-gmail.com/Drumsticks_Poriyal__South_Style_Drumsticks_Sabzi_recipe.jpg",
+        "Price": "114"
+    },
+    {
+        "Srno": "28",
+        "TranslatedRecipeName": "Sundakkai And Methi Leaves Sambar",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Neeru_Srikanth/Sundaikkai__Methi_leaves_sambar.jpg",
+        "Price": "328"
+    },
+    {
+        "Srno": "44",
+        "TranslatedRecipeName": "Peerkangai Thogayal",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Chutneys/Ridge_Gourd_Peel_Chutney_Thogayal_Peerkangai_Recipe-1.jpg",
+        "Price": "392"
+    },
+    {
+        "Srno": "50",
+        "TranslatedRecipeName": "Beetroot Sambar",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2019/Beetroot_Sambar_Recipe_7_1600.jpg",
+        "Price": "218"
+    },
+    {
+        "Srno": "61",
+        "TranslatedRecipeName": "Thengai Sadam",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Rice/Thengai_Sadam_Recipe_A_Quick_and_Healthy_Coconut_Rice-1_1600.jpg",
+        "Price": "361"
+    },
+    {
+        "Srno": "63",
+        "TranslatedRecipeName": "Roasted Cauliflower",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Madhuli_Ajay/Roasted_cauliflower.jpg",
+        "Price": "328"
+    },
+    {
+        "Srno": "72",
+        "TranslatedRecipeName": "Paal Kesari",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Uma_Raghuraman/Milk_Kesari_Recipe_Paal_Kesari_Recipe.jpg",
+        "Price": "219"
+    },
+    {
+        "Srno": "76",
+        "TranslatedRecipeName": "Kobbari Charu",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/5-jan/Kobbari_Chaaru_Recipe_Coconut_Milk_and_Dal_Sambar_Existing_Recipe-2.jpg",
+        "Price": "335"
+    },
+    {
+        "Srno": "79",
+        "TranslatedRecipeName": "Waffle Brothers",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://cdn7.site-media.eu/images/419/1952273/57740_21379228721662806427_IMG_0237.JPG",
+        "Price": "354"
+    },
+    {
+        "Srno": "83",
+        "TranslatedRecipeName": "Capsicum Masala Poriyal",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Padma_Veeranki/Tricolour_Capsicum_Masala_StirFry.jpg",
+        "Price": "181"
+    },
+    {
+        "Srno": "90",
+        "TranslatedRecipeName": "White Vegetable Kurma With Coconut & Cashew",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/swathynandhini/WHITE_VEGETABLE_KURMA_edited.jpg",
+        "Price": "135"
+    },
+    {
+        "Srno": "91",
+        "TranslatedRecipeName": "Muttaikose Poriyal",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Cabbage_Poriyal_Recipe_1_1600.jpg",
+        "Price": "384"
+    },
+    {
+        "Srno": "95",
+        "TranslatedRecipeName": "Togari Bele Tovve",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Karthika_Gopalakrishnan/Togaribele_Tovve.jpg",
+        "Price": "310"
+    },
+    {
+        "Srno": "98",
+        "TranslatedRecipeName": "Pasi Paruppu Kosumalli",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2016/sept-23/Moong_Dal_Cucumber_Salad_Pasi_Paruppu_Kosumalli_Recipe_Navratri_Gollu_Moong_Dal_Cucumber_Salad-Pasi_Paruppu_Kosumalli_Recipe__-1.jpg",
+        "Price": "248"
+    },
+    {
+        "Srno": "100",
+        "TranslatedRecipeName": "Ragi Masala Roti",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2019/ragi_masala_roti/Ragi_Masala_Roti_Recipe_40_1600.jpg",
+        "Price": "316"
+    },
+    {
+        "Srno": "133",
+        "TranslatedRecipeName": "Fruit Pachadi",
+        "Cuisine": "South Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sapanabehl/Fruit_Pachadi_edited.jpg",
+        "Price": "375"
+    }
+]

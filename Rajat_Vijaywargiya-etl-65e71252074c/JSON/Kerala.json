@@ -1,0 +1,30 @@
+[
+    {
+        "Srno": "30",
+        "TranslatedRecipeName": "Kerala Palada Pradhaman",
+        "Cuisine": "Kerala",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/jyothir/Kerala_Palada_Pradhaman.jpg",
+        "Price": "153"
+    },
+    {
+        "Srno": "68",
+        "TranslatedRecipeName": "White Pumpkin Mor Kuzhambu",
+        "Cuisine": "Kerala",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/vinithavijayam1990-gmail.com/Kerala_Style_Mor_Kuzhambhu___White_Pumkin_Mor_Kuzhambhu.jpg",
+        "Price": "180"
+    },
+    {
+        "Srno": "84",
+        "TranslatedRecipeName": "Kerala Style Raw Banana And Suran Kootu Curry",
+        "Cuisine": "Kerala",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/23-feb/Raw_banana_and_Yam_Kerala_Style_Thoran_Recipe-2.jpg",
+        "Price": "188"
+    },
+    {
+        "Srno": "101",
+        "TranslatedRecipeName": "Dry Sweet Potato Thoran",
+        "Cuisine": "Kerala",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Smitha-Kalluraya/Dry_Sweet_Potato_Thoran.jpg",
+        "Price": "169"
+    }
+]

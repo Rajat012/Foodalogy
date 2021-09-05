@@ -1,0 +1,37 @@
+[
+    {
+        "Srno": "18",
+        "TranslatedRecipeName": "Maharashtrian Kakdi Thalipeeth",
+        "Cuisine": "Maharashtrian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Raksha_Kamat/Cucumber_Thalipeeth.jpg",
+        "Price": "212"
+    },
+    {
+        "Srno": "52",
+        "TranslatedRecipeName": "Peanut Pudding",
+        "Cuisine": "Maharashtrian",
+        "Image_URL": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/4/5/0/LS-Library_Peanut-Butter-Pudding-With-Bananas_s4x3.jpg.rend.hgtvcom.826.620.suffix/1522779225882.jpeg",
+        "Price": "369"
+    },
+    {
+        "Srno": "56",
+        "TranslatedRecipeName": "Dubuk Vade",
+        "Cuisine": "Maharashtrian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/July-25/Kumani_Style_Bhadi_Curry-2_1600.jpg",
+        "Price": "182"
+    },
+    {
+        "Srno": "99",
+        "TranslatedRecipeName": "Maharashtrian Style Semolina And Yogurt Cake",
+        "Cuisine": "Maharashtrian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Maharashtrian_Style_Semolina_and_Yogurt_Cake_Recipe.jpg",
+        "Price": "144"
+    },
+    {
+        "Srno": "115",
+        "TranslatedRecipeName": "Katachi Amti",
+        "Cuisine": "Maharashtrian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Madhuli_Ajay/Katachi_Amti_Spicy_accompaniment_to_Maharashtrian_Puran_Poli.jpg",
+        "Price": "262"
+    }
+]

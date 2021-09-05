@@ -1,0 +1,163 @@
+[
+    {
+        "Srno": "0",
+        "TranslatedRecipeName": "Masala Karela",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Pooja_Thakur/Karela_Masala_Recipe-4_1600.jpg",
+        "Price": "328"
+    },
+    {
+        "Srno": "14",
+        "TranslatedRecipeName": "Gourd Raita",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Preethi_Kitchen_Appliances_Lauki_Raita_Recipe_video-1.jpg",
+        "Price": "143"
+    },
+    {
+        "Srno": "21",
+        "TranslatedRecipeName": "Kesar Mango Lassi",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/pooja/Mango_Saffron_Lassi.jpg",
+        "Price": "168"
+    },
+    {
+        "Srno": "45",
+        "TranslatedRecipeName": "Dalia Pakora",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/nithya.anantham/Dalia_Pakora_Broken_Wheat_Pakora_Recipe-4_1600.jpg",
+        "Price": "162"
+    },
+    {
+        "Srno": "53",
+        "TranslatedRecipeName": "Tofu Pulao",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Richa_Gupta/Tofu_Masala_Rice_Indian_Style.jpg",
+        "Price": "333"
+    },
+    {
+        "Srno": "57",
+        "TranslatedRecipeName": "Radish Soup",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/KarthikaKrishnan/Radish_Soup.jpg",
+        "Price": "322"
+    },
+    {
+        "Srno": "65",
+        "TranslatedRecipeName": "Crunchy Ginger Capsicum Rice",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Nithya_Anantham/Ginger_Capsicum_Rice_Recipe.jpg",
+        "Price": "359"
+    },
+    {
+        "Srno": "70",
+        "TranslatedRecipeName": "Elephant Yam Raita",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Neeru_Srikanth/Senai_Pachadi.jpg",
+        "Price": "230"
+    },
+    {
+        "Srno": "85",
+        "TranslatedRecipeName": "Cheese Stuffed Aloo Bonda",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Lubna_Karim/Cheese_Stuffed_Aloo_Bonda.jpg",
+        "Price": "382"
+    },
+    {
+        "Srno": "89",
+        "TranslatedRecipeName": "Pudina Mushroom And Soya Biryani",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/ishita74-hotmail.com/Pudina_Mushroom_Soya_Biryani_Recipe-6.jpg",
+        "Price": "225"
+    },
+    {
+        "Srno": "111",
+        "TranslatedRecipeName": "Wheat Grass Shikanji",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Beverages/Wheat_Grass_Shikanji_Juice_Recipe_Lemonade-1.jpg",
+        "Price": "328"
+    },
+    {
+        "Srno": "117",
+        "TranslatedRecipeName": "Cauliflower Matar Bhurji",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Karthika_Gopalakrishnan/Cauliflower_Bhurji_with_Matar.jpg",
+        "Price": "357"
+    },
+    {
+        "Srno": "119",
+        "TranslatedRecipeName": "Aromatic Vegetable Pulao",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Nusrath_Jahan/Mix_vegetable_pulaopilaf_1600.jpg",
+        "Price": "283"
+    },
+    {
+        "Srno": "120",
+        "TranslatedRecipeName": "Spicy Curd",
+        "Cuisine": "Indian",
+        "Image_URL": "https://werecipes.com/app/uploads/2015/04/masala-dahi-recipe-step-by-step.jpg",
+        "Price": "311"
+    },
+    {
+        "Srno": "121",
+        "TranslatedRecipeName": "Mustard Vegetable Curry",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Chefs/Chef_Vikas_Khanna/Mustard_Vegetable_Curry_Vikas_Khanna_Recipe_1600.jpg",
+        "Price": "233"
+    },
+    {
+        "Srno": "122",
+        "TranslatedRecipeName": "One Pot Spicy Vegetable Pulao With Coconut Milk",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Rice/Mixed_Vegetable_Pulav_with_Coconut_Milk_South_Indian_Style_with_Spices_and_Raita_Recipe-2.jpg",
+        "Price": "359"
+    },
+    {
+        "Srno": "127",
+        "TranslatedRecipeName": "Moong Dal Khichdi",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sandhya-archanaskitchen.com/Moong_Dal_Khichdi_For_Babies_And_Toddlers_Over_9_months_1600.jpg",
+        "Price": "285"
+    },
+    {
+        "Srno": "132",
+        "TranslatedRecipeName": "Moon Biscuits",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Dessert_Cookies/Moon_biscuits_recipe.JPG",
+        "Price": "226"
+    },
+    {
+        "Srno": "134",
+        "TranslatedRecipeName": "Aloo Matar Masala Khichdi",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/nithya.anantham/Aloo_Matar_Masala_Khichdi_Recipe.jpg",
+        "Price": "314"
+    },
+    {
+        "Srno": "135",
+        "TranslatedRecipeName": "Rock Toast",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/Rock_Toast_Semolina_Bread_Toast_Recipe_Spiced_With_Green_Chilli-5.jpg",
+        "Price": "327"
+    },
+    {
+        "Srno": "138",
+        "TranslatedRecipeName": "Classic Grilled Tomato Cucumber Chutney Sandwich",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Classic_Grilled_Tomato_Cucumber_Sandwich_With_Chutney_Recipe_.jpg",
+        "Price": "236"
+    },
+    {
+        "Srno": "148",
+        "TranslatedRecipeName": "Royal Bread Gulab Jamun",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Salma_Godil/Royal_Bread_Gulab_Jamun_Recipe-1.jpg",
+        "Price": "142"
+    },
+    {
+        "Srno": "149",
+        "TranslatedRecipeName": "Safed Achari Baingan",
+        "Cuisine": "Indian",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Safed_Achari_Baigan__White_Aubergine_in_pickled_spices.jpg",
+        "Price": "311"
+    }
+]

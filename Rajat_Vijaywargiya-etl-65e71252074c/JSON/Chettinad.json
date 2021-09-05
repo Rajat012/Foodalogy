@@ -1,0 +1,23 @@
+[
+    {
+        "Srno": "16",
+        "TranslatedRecipeName": "Chettinad Vegetable Casserole",
+        "Cuisine": "Chettinad",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Rice/Chettinad_Vegetable_Pulao_Recipe_with_Kohinoor_Platinum_Basmati_Rice_-1.jpg",
+        "Price": "127"
+    },
+    {
+        "Srno": "22",
+        "TranslatedRecipeName": "Chettinad Sweet Paniyaram",
+        "Cuisine": "Chettinad",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/swathynandhini/CHETTINAD_SWEET_PANIYARAM_1600.jpg",
+        "Price": "127"
+    },
+    {
+        "Srno": "142",
+        "TranslatedRecipeName": "Chettinad Thakkali Sadam",
+        "Cuisine": "Chettinad",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Rice/Tomato_Rice_South_Indian_Thakkali_Sadam_Recipe_Vegetarian-1-2.jpg",
+        "Price": "119"
+    }
+]

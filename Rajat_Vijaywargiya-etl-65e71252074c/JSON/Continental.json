@@ -1,0 +1,100 @@
+[
+    {
+        "Srno": "10",
+        "TranslatedRecipeName": "Veg Chili Cheese Burgers",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl-archanaskitchen.com/Veg_Chili_Cheese_Burgers_Recipe.jpg",
+        "Price": "290"
+    },
+    {
+        "Srno": "15",
+        "TranslatedRecipeName": "Tater Tots",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Jyothi_Rajesh/Homemade_Tater_Tots.jpg",
+        "Price": "387"
+    },
+    {
+        "Srno": "39",
+        "TranslatedRecipeName": "Whole Wheat Pita Bread",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/World_Breads/Home_Made_Pita_Bread_Recipe-1.jpg",
+        "Price": "197"
+    },
+    {
+        "Srno": "41",
+        "TranslatedRecipeName": "Herbal Brown Rice",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/July-25/Herbed_Brown_Rice_Recipe-3_1600.jpg",
+        "Price": "128"
+    },
+    {
+        "Srno": "47",
+        "TranslatedRecipeName": "Pan Fried Rice Balls Filled With Cheese",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Karthika_Gopalakrishnan/Pan_Fried_Rice_Balls_filled_with_Cheese.jpg",
+        "Price": "313"
+    },
+    {
+        "Srno": "55",
+        "TranslatedRecipeName": "Tomato Relish",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Gauravi_Vinay/Tomato_Relish.jpg",
+        "Price": "190"
+    },
+    {
+        "Srno": "58",
+        "TranslatedRecipeName": "Mango Donut Cake With Chocolate Glaze",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/firsttimercook/Mango_Donut_Doughnut_Cake_with_Chocolate_Glaze_1600.jpg",
+        "Price": "353"
+    },
+    {
+        "Srno": "60",
+        "TranslatedRecipeName": "Zucchini Roll Up Lasagne",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl-archanaskitchen.com/Zucchini_Roll_Up_Lasagne_Recipe_.jpg",
+        "Price": "381"
+    },
+    {
+        "Srno": "71",
+        "TranslatedRecipeName": "Walnut And Flax Seed Trail Mix With Figs And Honey",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shyma_Menon/Walnut_and_Flax_Seeds_Trail_Mix_Recipe_With_Figs_and_Honey-3_1600.jpg",
+        "Price": "112"
+    },
+    {
+        "Srno": "77",
+        "TranslatedRecipeName": "Carrot Corn Mayo Pancake With Sandwich Spread",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/10-Brands/Del_Monte_Mayo/Carrot-Corn-Sandwich-Spread-Mayo-Pancakes2.jpg",
+        "Price": "158"
+    },
+    {
+        "Srno": "93",
+        "TranslatedRecipeName": "Lemon Frozen Yogurt",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/ruby_pathak-yahoo.com/Lemon_Frozen_Yogurt.jpg",
+        "Price": "211"
+    },
+    {
+        "Srno": "94",
+        "TranslatedRecipeName": "Paneer Capsicum Sandwich",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/nithya.anantham/Paneer_Capsicum_Sandwich_Recipe.jpg",
+        "Price": "124"
+    },
+    {
+        "Srno": "102",
+        "TranslatedRecipeName": "Oreo Milkshake",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Waagmi_Soni/oreo-milkshake-recipe.jpg",
+        "Price": "391"
+    },
+    {
+        "Srno": "139",
+        "TranslatedRecipeName": "Granola Mix With Oats & Wheat Flakes",
+        "Cuisine": "Continental",
+        "Image_URL": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Rekha_Shivakumar/Homemade_Granola_Mix_Recipe_with_Oats_and_Wheat_Flakes-1.jpg",
+        "Price": "179"
+    }
+]
